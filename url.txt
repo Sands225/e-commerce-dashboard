@@ -1,1 +1,1 @@
-diisi dengan link deploy streamlit
+https://sands225-e-commerce-dashboard-dashboarddashboard-5ag6kp.streamlit.app/
