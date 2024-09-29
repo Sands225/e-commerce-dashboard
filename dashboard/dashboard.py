@@ -69,7 +69,7 @@ def create_rfm_df(df):
     return rfm_df
 
 # Read data from csv
-all_data_df = pd.read_csv("data_df.csv")
+all_data_df = pd.read_csv("https://github.com/Sands225/e-commerce-dashboard/raw/refs/heads/main/dashboard/data_df.csv")
 
 # Data type change to timestamp
 datetime_columns = ["shipping_limit_date", "order_purchase_timestamp"]
